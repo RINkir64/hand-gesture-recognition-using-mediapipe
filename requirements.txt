@@ -3,6 +3,6 @@ opencv-python == 4.6.0.66
 tensorflow == 2.9.0
 scikit-learn == 1.0.2
 matplotlib == 3.5.1
-protobuf<3.20,>=3.9.2
+protobuf<5,>=3.20
 streamlit-webrtc == 0.47.7
 streamlit == 1.32.0
